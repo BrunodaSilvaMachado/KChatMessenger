@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">KChatMessenger</string>
+    <string name="password">Password</string>
+    <string name="your_email">Your email</string>
+    <string name="enter">Enter</string>
+    <string name="ask_create_account">Do not have an account? Create here!</string>
+    <string name="username">Name</string>
+    <string name="create_account">Create account</string>
+    <string name="required_email_or_password">Required email or password</string>
+    <string name="your_photo">Your photo</string>
+    <string name="contacts">Contacts</string>
+    <string name="logout">Logout</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="select_contact">Select contact</string>
+    <string name="message">message</string>
+    <string name="thumb">thumb</string>
+    <string name="password_minor_6_chars">Password should be a at least 6 characters</string>
+</resources>

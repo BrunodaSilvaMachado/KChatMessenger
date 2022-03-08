@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password">Senha</string>
+    <string name="your_email">Seu email</string>
+    <string name="enter">Entre</string>
+    <string name="ask_create_account">Não tem uma conta? Crie aqui!</string>
+    <string name="username">Nome</string>
+    <string name="create_account">Criar Conta</string>
+    <string name="required_email_or_password">email e senha devem ser informados</string>
+    <string name="your_photo">Sua foto</string>
+    <string name="contacts">Contatos</string>
+    <string name="logout">Sair</string>
+    <string name="coming_soon">Disponível em breve</string>
+    <string name="select_contact">Selecinar Contatos</string>
+    <string name="message">Menssagem</string>
+    <string name="thumb">Foto do perfil</string>
+    <string name="password_minor_6_chars">A senha deve ter no minimo 6 caracteres</string>
+</resources>
